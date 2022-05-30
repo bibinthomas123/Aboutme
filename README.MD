@@ -4,7 +4,7 @@ Hi 👋 My name is bibin thomas
 Web Developer
 -------------
 
-Pursuing Computer Science and cognitive system with hands-on experience. working with: JavaScript, HTML5, CSS3, XML,. Completed .Aspiring AWS Solution Associate Architect. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+Pursuing Computer Science and cognitive system with hands-on experience. working with: JavaScript, HTML5, CSS3, XML,. Completed .Aspiring AWS Solution Architect Associate . Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [bibinthomas951@gmail.com](mailto:bibinthomas951@gmail.com)
