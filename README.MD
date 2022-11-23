@@ -37,7 +37,7 @@ Pursuing Computer Science and cognitive system with hands-on experience. working
 <p align="left"> <a href="https://discord.com/users/bibinthomas951#6298" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/bibinthomas123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bibinthomas951/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bibin-thomas-1962a2225/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15169253/bibinthomas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
-[![Spotify](https://spotify-playing-cnu1812.vercel.app/api/spotify)](https://open.spotify.com/user/7bvngrfdscm3h8barvbl3vhhv)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=7bvngrfdscm3h8barvbl3vhhv&cover_image=true&theme=default&show_offline=false&background_color=5a3ee5&bar_color=53b14f&bar_color_cover=true)]]
 
 ### Badges
 
