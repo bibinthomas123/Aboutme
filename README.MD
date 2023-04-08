@@ -10,7 +10,7 @@ Pursuing Computer Science and cognitive system with hands-on experience. working
 <img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bibinthomas951@gmail.com](mailto:bibinthomas951@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning RUST
 * 🤝  I'm open to collaborating on Website Development
 * ⚡  I love Animals
 * 	&#128279; [BibinThomas.me](https://bibinthomas.me)
