@@ -6,7 +6,7 @@ Hi 👋 My name is bibin thomas
 Web Developer
 -------------
 
-Pursuing Computer Science and cognitive system with hands-on experience. working with: JavaScript, HTML5, CSS3, XML,. Completed .Aspiring AWS Solution Architect Associate . Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+Pursuing Computer Science and Cognitive System , Proficient in Javascript, python, and many other. I have successfully completed various projects showcasing my expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I possess a keen interest in cloud technologies and their integration with cutting-edge web development. Recognized for my organizational skills and dependability, I am adept at managing multiple priorities while maintaining a positive attitude. I am always willing to take on additional responsibilities to ensure the success of the team and achieve our collective goals.
 <img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bibinthomas951@gmail.com](mailto:bibinthomas951@gmail.com)
