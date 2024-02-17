@@ -13,7 +13,7 @@ Pursuing Computer Science and Cognitive System , Proficient in Javascript, pytho
 * 🧠  I'm learning RUST
 * 🤝  I'm open to collaborating on Website Development
 * ⚡  I love Animals
-* 	&#128279; [BibinThomas.me](https://bibinthomas.me)
+* 	&#128279; [bibinthomas.netlify.app/](http://bibinthomas.netlify.app/)
 
 ### Skills
 
